@@ -1,8 +1,6 @@
-#Proyecto 2 SIG
+## Mapas de Población de Costa Rica
 
 ![Logo](/MapaProyecto2SIG/docs/assets/logo_tec.jpg)
-
-## Mapas de Población de Costa Rica
 
 You can use the [editor on GitHub](https://github.com/KevinCordoba/MapaProyeco2SIG/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
