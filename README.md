@@ -2,6 +2,8 @@
 
 ![Logo_TEC](/MapaProyecto2SIG/docs/assets/images/logo_tec.jpg)
 
+![Logo_TEC](/MapaProyecto2SIG/docs/assets/logo_tec.jpg)
+
 You can use the [editor on GitHub](https://github.com/KevinCordoba/MapaProyeco2SIG/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
