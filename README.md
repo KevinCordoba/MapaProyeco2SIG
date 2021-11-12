@@ -1,18 +1,8 @@
 ## Mapas de Población de Costa Rica
 
-![Logo_TEC](/MapaProyecto2SIG/docs/assets/images/logo_tec.jpg)
-
-![Logo_TEC](/MapaProyecto2SIG/docs/assets/logo_tec.jpg)
-
 You can use the [editor on GitHub](https://github.com/KevinCordoba/MapaProyeco2SIG/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KevinCordoba/MapaProyeco2SIG/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[EnlaceYT](https://www.youtube.com/)
 
 ### Support or Contact
 
