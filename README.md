@@ -1,4 +1,4 @@
-![Logo](MapaProyecto2SIG/docs/assets/logo_tec.jpg)
+![Logo](/MapaProyecto2SIG/docs/assets/logo_tec.jpg)
 
 ## Mapas de Población de Costa Rica
 
