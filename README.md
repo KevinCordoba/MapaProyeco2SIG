@@ -21,6 +21,9 @@
 
 ![Mapa](/MapaProyecto2SIG/docs/assets/hospitales.jpg)
 
+
+![Mapa](/MapaProyecto2SIG/docs/assets/hospitalesFinal.jpg)
+
 ### [HOME](./README.md)
 
 ### Support or Contact
