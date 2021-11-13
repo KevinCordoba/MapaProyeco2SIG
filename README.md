@@ -4,7 +4,9 @@ You can use the [editor on GitHub](https://github.com/KevinCordoba/MapaProyeco2S
 
 [EnlaceYT](https://www.youtube.com/)
 
-![LogoTec](/mapaProyecto2SIG/docs/assets/logo_tec.jpg/)
+![LogoTec](/mapaProyecto2SIG/docs/assets/logo_tec.jpg)
+
+![LogoTec](/MapaProyecto2SIG/docs/assets/logo_tec.jpg)
 
 ### Support or Contact
 
