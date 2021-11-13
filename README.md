@@ -5,7 +5,7 @@
 ### Heatmap Población 2021.
 
 
-![Mapa](/MapaProyecto2SIG/docs/assets/Final.tiff)
+![Mapa](/MapaProyecto2SIG/docs/assets/pob2021Final.jpg)
 
 ### Heatmap Población 2022.
 
