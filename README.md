@@ -1,8 +1,14 @@
 ## Mapas de Población de Costa Rica
 
-You can use the [editor on GitHub](https://github.com/KevinCordoba/MapaProyeco2SIG/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
 ![LogoTec](/MapaProyecto2SIG/docs/assets/logo_tec.jpg)
+
+### Heatmap Población 2021.
+
+### Heatmap Población 2022.
+
+### Escuelas en Áreas de Mayor Población.
+
+### Hospitales en Áreas de Mayor Población.
 
 ### [HOME](./README.md)
 
