@@ -4,6 +4,9 @@
 
 ### Heatmap Población 2021.
 
+
+![LogoTec](/MapaProyecto2SIG/docs/assets/Final.tiff)
+
 ### Heatmap Población 2022.
 
 ### Escuelas en Áreas de Mayor Población.
