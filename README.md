@@ -19,10 +19,7 @@
 
 ### Hospitales en Áreas de Mayor Población.
 
-![Mapa](/MapaProyecto2SIG/docs/assets/hospitalesFinal.jpg)
-
-
-![Mapa](/MapaProyecto2SIG/docs/assets/hospitalesFinal.jpg)
+![Mapa](/MapaProyecto2SIG/docs/assets/hospitales.jpg)
 
 ### [HOME](./README.md)
 
